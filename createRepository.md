@@ -1,4 +1,4 @@
-## Étape 1 Créer un *Repository*
+## **Étape 1** Créer un *Repository*
 
 Un *repository* est habituellement utiliser pour organiser un unique projet. Il peut contenir des dossiers et des fichier, images, vidéos, bases de données, code source et documentation - bref tout ce dont un projet nécéssite. Nous recommendons d'y inclure un fichier README.md contenant les information sur le projet et stocké dans le dossier racine. GitHub fait en sorte qu'il soit facile de créer ce fichier au moment où tu crées un nouvea *repository*. Il permet aussi entre autre de créer le fichier de licence.
 
@@ -22,6 +22,4 @@ Sur [GitHub.com](https://github.com) :
 
 ![createRepojpg](./images/createRepo.jpg)
 
-## [Étape 2 : cloner un *repository*](./cloneRepository.md)
-
-
+## [**Étape 2** cloner un *repository*](./cloneRepository.md)

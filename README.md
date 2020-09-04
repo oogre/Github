@@ -9,7 +9,9 @@ C'est partit pour démarrer avec GitHub!
 
 - [cloner un *repository*](./cloneRepository.md)
 
-- (to-do)éditer des fichiers et les *push* sur GitHub en tant que *commit*
+- [éditer des fichiers et les *push* sur GitHub en tant que *commit*](./commitAndPush.md)
+
+- [mise à jour de votre version locale le *pull*](./pull.md) 
 
 - (to-do) créer et modeler de nouvelles *branch*
 
@@ -29,4 +31,4 @@ Pour suivre ce tutoriel, tu as besoin d'un compte sur https://github.com et d'un
 
 > **Astuce :** Ouvre ce guide dans une fenetre de navigation en parallèle, de la sorte tu pourras suivre ses instruction pour compléter les étapes de ce tutoriel.
 
-## [Étape 1 Créer un *Repository*](./createRepository.md)
+## [**Étape 1** Créer un *Repository*](./createRepository.md)
