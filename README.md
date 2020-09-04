@@ -39,7 +39,7 @@ Sur https://github.com :
 
 1. Dans le coin superieur droit, à côté de votre avatar, click sur **+** et sélectionne **New Repository** 
    
-   ![newRepo.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/newRepo.jpg)
+   ![newRepo.jpg](./images/newRepo.jpg)
 
 2. Baptises ton repository `hello-world`
 
@@ -52,4 +52,4 @@ Sur https://github.com :
 6. Click **Create repository**
    
    
-   ![createRepo.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/createRepo.jpg)
+   ![createRepo.jpg](./images/createRepo.jpg)
