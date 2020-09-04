@@ -37,3 +37,5 @@ Ton *repository* `hello-world` peut être placé sur ton disque dur où tu dispo
 ![gdPathjpg](./images/gdPath.jpg)
 
 Lorsque tout est configuré click sur Clone
+
+## [Étape 3 : éditer des fichiers et les *push* sur GitHub en tant que *commit](./cloneRepository.md)
