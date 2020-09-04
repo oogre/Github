@@ -6,34 +6,34 @@
 
 Rends-toi sur le site [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com) pour télécharger Github Desktop. Installe ce logiciel sur ton ordinateur.
 
-![githubDesktopjpg](/Users/ogre/works/20-21/Tutoriels/Github/images/githubDesktop.jpg)
+![githubDesktopjpg](./images/githubDesktop.jpg)
 
 Affiche le menu préférence
 
-![gdPreferencejpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdPreference.jpg)
+![gdPreferencejpg](./images/gdPreference.jpg)
 
 Dans la section Accounts/Sign In avec tes identifiants GitHub
 
-![gdSigninjpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdSignin.jpg)
+![gdSigninjpg](./images/gdSignin.jpg)
 
 Dans la section Git inscrit ton nom et ton email
 
-![gdGitjpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdGit.jpg)
+![gdGitjpg](./images/gdGit.jpg)
 
-![gdSignedInjpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdSignedIn.jpg)
+![gdSignedInjpg](./images/gdSignedIn.jpg)
 
 Click sur **Clone a Repository from Internet...**
 
-![gdClonejpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdClone.jpg)
+![gdClonejpg](./images/gdClone.jpg)
 
 Dans l'input text nommée URL copie colle le lien que tu trouvera sur le site de Github derrière le bouton Code (Vert)
 
-![githubClonejpg](/Users/ogre/works/20-21/Tutoriels/Github/images/githubClone.jpg)
+![githubClonejpg](./images/githubClone.jpg)
 
-![gdClone2jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdClone2.jpg)
+![gdClone2jpg](./images/gdClone2.jpg)
 
 Ton *repository* `hello-world` peut être placé sur ton disque dur où tu disposes tes idées, resources ou bien sûr dans un dossier de travail relatif à l'année en cours et au cadre de travail. **Exemple : **`/Users/Vincent/2020/esa-bxl/atelier/progra/hello-world`
 
-![gdPathjpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdPath.jpg)
+![gdPathjpg](./images/gdPath.jpg)
 
 Lorsque tout est configuré click sur Clone

@@ -8,7 +8,7 @@ Sur [GitHub.com](https://github.com) :
 
 1. Dans le coin superieur droit, à côté de votre avatar, click sur **+** et sélectionne **New Repository**
    
-   ![newRepojpg](/Users/ogre/works/20-21/Tutoriels/Github/images/newRepo.jpg)
+   ![newRepojpg](./images/newRepo.jpg)
 
 2. Baptises ton repository `hello-world`
 
@@ -20,10 +20,8 @@ Sur [GitHub.com](https://github.com) :
 
 6. Click **Create repository**
 
-![createRepojpg](/Users/ogre/works/20-21/Tutoriels/Github/images/createRepo.jpg)
+![createRepojpg](./images/createRepo.jpg)
 
-
-
-## [Suivant : cloner un *repository*](./cloneRepository.md)
+## [Étape 2 : cloner un *repository*](./cloneRepository.md)
 
 
