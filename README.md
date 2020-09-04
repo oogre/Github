@@ -5,13 +5,15 @@ C'est partit pour démarrer avec GitHub!
 
 ### Tu apprendras à :
 
-- créer et utiliser un *repository*
+- [créer et utiliser un *repository*](./createRepository.md)
 
-- créer et modeler de nouvelles *branch*
+- [cloner un *repository*](./cloneRepository.md)
 
-- éditer des fichiers et les *push* sur GitHub en tant que *commit*
+- (to-do)éditer des fichiers et les *push* sur GitHub en tant que *commit*
 
-- ouvrir et à *merge* une *pull request* 
+- (to-do) créer et modeler de nouvelles *branch*
+
+- (to-do)ouvrir et à *merge* une *pull request* 
 
 ---
 
@@ -27,73 +29,4 @@ Pour suivre ce tutoriel, tu as besoin d'un compte sur https://github.com et d'un
 
 > **Astuce :** Ouvre ce guide dans une fenetre de navigation en parallèle, de la sorte tu pourras suivre ses instruction pour compléter les étapes de ce tutoriel.
 
-## Étape 1 Créer un *Repository*
-
-Un *repository* est habituellement utiliser pour organiser un unique projet. Il peut contenir des dossiers et des fichier, images, vidéos, bases de données, code source et documentation - bref tout ce dont un projet nécéssite. Nous recommendons d'y inclure un fichier README.md contenant les information sur le projet et stocké dans le dossier racine. GitHub fait en sorte qu'il soit facile de créer ce fichier au moment où tu crées un nouvea *repository*. Il permet aussi entre autre de créer le fichier de licence.
-
-**Pour créer un nouveau *repository***
-
-Sur https://github.com :
-
-1. Dans le coin superieur droit, à côté de votre avatar, click sur **+** et sélectionne **New Repository** 
-   
-   ![newRepo.jpg](./images/newRepo.jpg)
-
-2. Baptises ton repository `hello-world`
-
-3. Écris une courte description
-
-4. Sélectionne **Initialize this repository with a README**
-
-5. Sélectionne **Add .gitignore**
-
-6. Click **Create repository**
-   
-   
-   ![createRepo.jpg](./images/createRepo.jpg)
-
-## Étape 2 Récupérer une copie de votre *repository* sur votre ordinateur
-
-À l'heure actuelle ton *repository* n'existe que sur https://github.com il n'est pas présent sur le disque dur de ton ordinateur. Afin de pouvoir travailler sur ces fichier, tu vas devoir créer un clone ce projet en local (sur ta machine).
-
-#### Github Desktop
-
-Rends-toi sur le site https://desktop.github.com pour télécharger Github Desktop. Installe ce logiciel sur ton ordinateur.
-
-![githubDesktop.jpg](./images/githubDesktop.jpg)
-
-Affiche le menu préférence
-
-![gdPreference.jpg](./images/gdPreference.jpg)
-
-Dans la section Accounts/Sign In avec tes identifiants GitHub
-
-![gdSignin.jpg](./images/gdSignin.jpg)
-
-Dans la section Git inscrit ton nom et ton email
-
-![gdGit.jpg](./images/gdGit.jpg)
-
-![gdSignedIn.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdSignedIn.jpg)
-
-Click sur **Clone a Repository from Internet...**
-
-![gdClone.jpg](./images/gdClone.jpg)
-
-Dans l'input text nommée URL copie colle le lien que tu trouvera sur le site de Github derrière le bouton Code (Vert)
-
-![githubClone.jpg](./images/githubClone.jpg)
-
-![gdClone2.jpg](./images/gdClone2.jpg)
-
-Ton *repository* `hello-world` peut être placé sur ton disque dur où tu disposes tes idées, resources ou bien sûr dans un dossier de travail relatif à l'année en cours et au cadre de travail. **Exemple : **`/Users/Vincent/2020/esa-bxl/atelier/progra/hello-world`
-
-![gdPath.jpg](./images/gdPath.jpg)
-
-Lorsque tout est configuré click sur Clone
-
-#### Terminal + GIT
-
-Rends-toi sur le site https://gitforwindows.org pour télécharger 
-
-
+## [Étape 1 Créer un *Repository*](./createRepository.md)
