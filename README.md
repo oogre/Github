@@ -21,8 +21,6 @@ GitHub est une plateforme d'hébergement de code permettant le versionnage et la
 
 Ce tutoriel t'enseigne les bases essentielles de GitHub comme les *repositories*, les *branches*, les *commits* et les *pull requests*. Tu va créer ton propre *repository* «Hello World» et découvrir le workflow des Pull Request à la GitHub qui est une manière populaire de créer et de modifier du code.
 
-
-
 **Aucun niveau particulier en programmation n'est requis**
 
 Pour suivre ce tutoriel, tu as besoin d'un compte sur https://github.com et d'un accès à Internet. Tu n'auras besoin ni de connaissance en programmation, ni en ligne de commande ni en GIT (l'outil de contrôle de version [créé par [Linus Torvalds](https://fr.wikipedia.org/wiki/Linus_Torvalds "Linus Torvalds"), auteur du [noyau Linux](https://fr.wikipedia.org/wiki/Noyau_Linux) sur le quel GitHub est construit)
@@ -39,7 +37,9 @@ Ton *repository* `hello-world` peut être placé où vous disposer vos idées, r
 
 Sur https://github.com :
 
-1. Dans le coin superieur droit, à côté de votre avatar, click sur **+** et sélectionne **New Repository**
+1. Dans le coin superieur droit, à côté de votre avatar, click sur **+** et sélectionne **New Repository** 
+   
+   ![newRepo.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/newRepo.jpg)
 
 2. Baptises ton repository `hello-world`
 
@@ -50,11 +50,6 @@ Sur https://github.com :
 5. Sélectionne **Add .gitignore**
 
 6. Click **Create repository**
-
-
-
-
-
-
-
-
+   
+   
+   ![createRepo.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/createRepo.jpg)
