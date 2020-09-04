@@ -11,7 +11,7 @@ C'est partit pour démarrer avec GitHub!
 
 - [éditer des fichiers et les *push* sur GitHub en tant que *commit*](./commitAndPush.md)
 
-- [mise à jour de votre version locale le *pull*](./pull.md) 
+- [mise à jour de votre version locale le *pull* et résoudre un *Conflict*](./pull.md) 
 
 - (to-do) créer et modeler de nouvelles *branch*
 

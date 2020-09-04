@@ -1,4 +1,4 @@
-## **Étape 4** mise à jour de votre version locale le *pull*
+## **Étape 4** mise à jour de votre version locale le *pull* et résoudre un *Conflict*
 
 Si tu travaille avec deux ordinateurs sur un même projet ou si tu collabore avec un ami. Il t'arriveras de devoir récupérer une mise à jour depuis GitHub vers ton ordinateur. 
 
@@ -16,7 +16,7 @@ Dans ce cas ouvre avec Brackets le fichier incriminé.
 
 Tu verras que Git as ajouter intégrer les deux mise à jour et qu'il te faut choisir. 
 
-```<<<<<<< HEAD
+```<<<<<<<
 <<<<<<< HEAD
 MISE À JOUR MONTANTE
 =======
@@ -30,8 +30,6 @@ MISE À JOUR DESCENDANTE
 
 GitHub Desktop t'indiqueras lorsque le *Conflit* est résolut.
 
-![bracketsConflictRes2.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/bracketsConflictRes2.jpg)
+![bracketsConflictRes2.jpg](./images/bracketsConflictRes2.jpg)
 
 Tu n'aura alors qu'a clicker sur *Commit Merge* et sur Push Origin pour publier la résolution du conflit sur GitHub.
-
-

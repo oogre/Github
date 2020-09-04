@@ -34,7 +34,7 @@ Félicitation tu viens d'éditer ton premier fichier faisant partie d'un projet 
 
 Retourne sur l'interface de GitHub Desktop.
 
-![gdCommit1.jpg](/Users/ogre/works/20-21/Tutoriels/Github/images/gdCommit1.jpg)
+![gdCommit1.jpg](./images/gdCommit1.jpg)
 
 Tu peux voir dans la colonne de gauche la liste des fichier ayant subit une modification. Il n'y a que le fichier README.md dans mon cas. 
 
@@ -44,4 +44,4 @@ Le cadre inférieur à la colonne gauche t'invite à y écrire une description d
 
 Tu viens d'introduire ta mise à jour dans le système GIT présent sur ton ordinateur. L'information n'a pour autant pas encore été envoyée sur GitHub. Pour ce faire, regarde en haut à droite de la fenêtre de GiHub Desktop. Il y a un Bouton **Fetch origin** est devenu un bouton indiquant **Push origin** cela signifie que GitHub Desktop est prêt pour envoyer ta mise à jour en ligne.
 
-## [**Étape 4** mise à jour de votre version locale le *pull*](./pull.md)
+## [**Étape 4** mise à jour de votre version locale le *pull* et résoudre un *Conflict*](./pull.md)
