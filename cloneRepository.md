@@ -1,41 +1,25 @@
-## Étape 2 Cloner un *repository* sur votre ordinateur
+## Étape 2 Cloner un *repository*
 
-À l'heure actuelle ton *repository* n'existe que sur [The world’s leading software development platform · GitHub](https://github.com) il n'est pas présent sur le disque dur de ton ordinateur. Afin de pouvoir travailler sur ces fichier, tu vas devoir créer un clone ce projet en local (sur ta machine).
+À l'heure actuelle ton *repository* n'existe que sur [GitHub](https://github.com).Il n'est pas présent sur le disque dur de ton ordinateur. Afin de pouvoir travailler sur ces fichiers, tu vas devoir créer un clone ce projet en local (sur ta machine).
 
-#### Github Desktop
+### Github Desktop
 
-Rends-toi sur le site [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com) pour télécharger Github Desktop. Installe ce logiciel sur ton ordinateur.
+1. Rends-toi sur [ce site](https://desktop.github.com) pour télécharger Github Desktop télécharge et installe ce logiciel sur ton ordinateur.![githubDesktopjpg](./images/githubDesktop.jpg)
 
-![githubDesktopjpg](./images/githubDesktop.jpg)
+2. Affiche le menu **Préférences**![gdPreferencejpg](./images/gdPreference.jpg)
 
-Affiche le menu préférence
+3. Dans la section Accounts/Sign In enregistre ton identifiant **GitHub.com** et valide par un click sur `Sign In`.![gdSigninjpg](./images/gdSignin.jpg)
 
-![gdPreferencejpg](./images/gdPreference.jpg)
+4. Dans la section **Git** du menu **Préférences** inscrit ton nom et ton email et valide par un click sur `Save`.![gdGitjpg](./images/gdGit.jpg)
 
-Dans la section Accounts/Sign In avec tes identifiants GitHub
+5. Click sur **Clone a Repository from Internet...**![gdSignedInjpg](./images/gdSignedIn.jpg)
 
-![gdSigninjpg](./images/gdSignin.jpg)
+6. Sélectione l'onglet **URL** et dans l'**input text nommée URL** copie colle le lien que tu trouvera sur le site de Github derrière le bouton Code (Vert)![gdClonejpg](./images/gdClone.jpg)![githubClone.jpg](./images/githubClone.jpg)
 
-Dans la section Git inscrit ton nom et ton email
+7. Ton *repository* hello-world peut être placé sur ton disque dur où tu disposes tes idées, resources ou bien sûr dans un dossier de travail relatif à l'année en cours et au cadre de travail. **Exemple : **/Users/Vincent/2020/esa-bxl/atelier/progra/hello-world
+   
+   Dans la section **Local Path** inscrits le chemin d'accès au dossier dans lequel tu souhaite que GitHub Desktop Clone ton *repository*. Pour ce faire click sur `Choose...`.![gdPathjpg](./images/gdPath.jpg)
+   
+   Lorsque tout est configuré click sur Clone
 
-![gdGitjpg](./images/gdGit.jpg)
-
-![gdSignedInjpg](./images/gdSignedIn.jpg)
-
-Click sur **Clone a Repository from Internet...**
-
-![gdClonejpg](./images/gdClone.jpg)
-
-Dans l'input text nommée URL copie colle le lien que tu trouvera sur le site de Github derrière le bouton Code (Vert)
-
-![githubClonejpg](./images/githubClone.jpg)
-
-![gdClone2jpg](./images/gdClone2.jpg)
-
-Ton *repository* `hello-world` peut être placé sur ton disque dur où tu disposes tes idées, resources ou bien sûr dans un dossier de travail relatif à l'année en cours et au cadre de travail. **Exemple : **`/Users/Vincent/2020/esa-bxl/atelier/progra/hello-world`
-
-![gdPathjpg](./images/gdPath.jpg)
-
-Lorsque tout est configuré click sur Clone
-
-## [**Étape 3** éditer des fichiers et les *push* sur GitHub en tant que *commit*](./commitAndPush.md)
+### [**Étape 3** Éditer des fichiers et les *push* sur GitHub en tant que *commit*](./commitAndPush.md)
