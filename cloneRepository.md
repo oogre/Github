@@ -2,6 +2,8 @@
 
 À l'heure actuelle ton *repository* n'existe que sur [GitHub](https://github.com).Il n'est pas présent sur le disque dur de ton ordinateur. Afin de pouvoir travailler sur ces fichiers, tu vas devoir créer un clone ce projet en local (sur ta machine).
 
+---
+
 ### Github Desktop
 
 1. Rends-toi sur [ce site](https://desktop.github.com) pour télécharger Github Desktop télécharge et installe ce logiciel sur ton ordinateur.![githubDesktopjpg](./images/githubDesktop.jpg)

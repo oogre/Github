@@ -1,6 +1,8 @@
 ## **Étape 3** Éditer des fichiers et les *push* sur GitHub en tant que *commit*
 
-**Il est emps d'ouvrir et d'éditer les fichiers de ton projet `hello-world`. **
+**Il est emps d'ouvrir et d'éditer les fichiers de ton projet `hello-world`.**
+
+---
 
 Au moyen de l'explorateur de fichier de ton système d'exploitation, rends-toi dans le dossier où tu les as cloné. Ces fichiers ont donc bien une présence physique sur ton disque dur et maintenant tu en as la certitude.
 

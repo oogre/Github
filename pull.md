@@ -6,6 +6,8 @@ Tu dois t'assurer que tous tes fichiers suceptibles d'être mis à jour soit au 
 
 Voila ta version local est à jour.
 
+---
+
 ### *Conflict* Warning
 
 Si une mise à jour montante (celle de ta version local vers GitHub) et une mise à jour descentente (celle de GitHub vers ta version local) ne sont pas compatible, cela arrive lorsque des modifications ont été réalisées dans deux version différentes et dans les   même régions d'un même fichier. Il s'agit d'un *Conflit*.
@@ -37,3 +39,5 @@ GitHub Desktop t'indiqueras ceci lorsque le *Conflit* est résolut.
 ![bracketsConflictRes2.jpg](./images/bracketsConflictRes2.jpg)
 
 Tu n'aura alors qu'a clicker sur `Commit Merge` et sur `Push Origin` pour publier la résolution du conflit sur GitHub.
+
+### [Créer et modeler de nouvelles *branch* sur un projet communautaire, *pull request*](./collaboration.md)
