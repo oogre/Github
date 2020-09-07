@@ -1,6 +1,6 @@
 ## **Étape 4** Mettre à jour ta version local, *pull* et résoudre un *Conflict*
 
-Si tu travaille avec deux ordinateurs sur un même projet ou si tu collabore avec un ami. Il t'arriveras de devoir récupérer une mise à jour depuis GitHub vers ton ordinateur. 
+> Si tu travaille avec deux ordinateurs sur un même projet ou si tu collabore avec un ami. Il t'arriveras de devoir récupérer une mise à jour depuis GitHub vers ton ordinateur. 
 
 ---
 
