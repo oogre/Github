@@ -1,12 +1,14 @@
 ## **Étape 4** Mettre à jour ta version local, *pull* et résoudre un *Conflict*
 
-> Si tu travaille avec deux ordinateurs sur un même projet ou si tu collabore avec un ami. Il t'arriveras de devoir récupérer une mise à jour depuis GitHub vers ton ordinateur. 
+Si tu travaille avec deux ordinateurs sur un même projet ou si tu collabore avec un ami. Il t'arriveras de devoir récupérer une mise à jour depuis GitHub vers ton ordinateur. 
+
+---
+
+### *Pull*
 
 Tu dois t'assurer que tous tes fichiers suceptibles d'être mis à jour soit au minimum *Commit* (la colonne de gauche de l'UI GitHub Desktop doit être vide). En suite tu click sur le bouton `Fetch origin` en haut à droite de l'interface si il est présent, ou directement sur le bouton `Pull origin` dans le même espace. 
 
-Voila ta version local est à jour.
-
----
+> Voila ta version local est à jour.
 
 ### *Conflict* Warning
 
